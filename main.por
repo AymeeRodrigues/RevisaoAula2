@@ -13,6 +13,8 @@ funcao calculo(real x, real y){
        escreva("1-soma\n")
        escreva("2-subtração\n")
        escreva("3-divisão\n")
+       escreva("4-multiplicação)
+       }
 
        
       
