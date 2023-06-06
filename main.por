@@ -12,6 +12,7 @@ funcao calculo(real x, real y){
        escreva("Escolha uma operação: ")
        escreva("1-soma\n")
        escreva("2-subtração\n")
-       
+       escreva("3-divisão\n")
+
        
       
